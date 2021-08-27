@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...(/python)
 - 🌱 I’m currently learning ...(/JavaScript)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...invisible 
+- 📫 How to reach me ...(/invisible)
 
 <!---
 254willy/254willy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
